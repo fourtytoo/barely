@@ -1,0 +1,10 @@
+*~
+*.class
+*.jar
+/attic
+/checkouts/
+/classes/
+/lib/
+/log/
+/out/
+/target/
